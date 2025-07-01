@@ -1,7 +1,4 @@
 # Data-Engineering-and-Analytics
-Worked With My Friend To Do Data Extraction and Integration Challenge 
-
-
 
 Requirements:
 Objective: In this assignment, you will explore the process of ETL: data extraction, preprocessing,
