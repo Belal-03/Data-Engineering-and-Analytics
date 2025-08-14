@@ -77,8 +77,7 @@ This project showcases the complete ETL (Extract, Transform, Load) process — f
 - Cleaned and integrated dataset in a structured format.
 - Local MySQL database containing the loaded dataset.
 - Documentation of at least three meaningful SQL queries with results.
-- (Optional) Presentation or short walkthrough video explaining the workflow.
-
+  
 ---
 
 ## 🧠 Key Concepts Covered
